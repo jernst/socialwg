@@ -4,34 +4,34 @@
 
 ## Proposed Agenda
 
-- Administrivia
-  - Scribe volunteer(s)?
-  - Reminders:
-    - Working Group Membership and Community Group Membership
-    - CG/WG incubation process
-    - W3C Code of Conduct
-- Welcome (Dmitri / Johannes)
-- Brief introductions as necessary
-- Task force updates (Dmitri/Johannes)
-- WG updates (Dmitri)
-  - New WG draft meetings are scheduled
-- ActivityPub Stack 2.0 - how/where/when should we discuss this? (Johannes)
-- (Johannes) CG Website TF Proposal: the Website TF gets to manage all publicly visible websites related to the CG, not just activitypub.rocks. Currently https://www.w3.org/community/socialcg/ has some updates, and activitypub.rocks has different updates, and there are inconsistent calendar links etc, I think we need a single place that owns and resolves this
-- Any Other Business (AOB)
-  - https://github.com/w3c/activitypub/issues/573
-  - https://github.com/w3c/activitystreams/issues/723
-  - https://github.com/w3c/activitypub/issues/585
+* Administrivia
+  * Scribe volunteer(s)? (Johannes with help from others)
+  * Reminders: 
+     * [Working Group Membership](https://www.w3.org/groups/wg/social/) and [Community Group Membership](https://www.w3.org/groups/cg/socialcg/)
+     * [CG/WG incubation process](https://github.com/swicg/potential-charters/blob/main/stage-process.md)
+     * [W3C Code of Conduct](https://www.w3.org/policies/code-of-conduct/)
+* Welcome (Dmitri / Johannes)
+* Brief introductions as necessary
+* Task force updates (Dmitri/Johannes)
+* WG updates (Dmitri)
+  * New WG draft meetings are scheduled
+* ActivityPub Stack 2.0 - how/where/when should we discuss this? (Johannes)
+* (Johannes) CG Website TF Proposal: the Website TF gets to manage all publicly visible websites related to the CG, not just activitypub.rocks. Currently https://www.w3.org/community/socialcg/ has some updates, and activitypub.rocks has different updates, and there are inconsistent calendar links etc, I think we need a single place that owns and resolves this
+* Any Other Business (AOB)
+    * https://github.com/w3c/activitypub/issues/573
+    * https://github.com/w3c/activitystreams/issues/723
+    * https://github.com/w3c/activitypub/issues/585
 
 ## Attendees _(please sign in!)_
 
-- Dmitri Zagidulin (I.E., [Interop Alliance](https://interopalliance.org)
-- Johannes Ernst (https://j12t.org)
-- Ryan Barrett snarfed.org
-- Evan Prodromou acct:evanprodromou@socialwebfoundation.org
-- Ted Thibodeau Jr (he/him) (OpenLinkSw.com) // GitHub:@TallTed // Mastodon:@TallTed
-- Philippe Le Hegaret
-- Michal
-- a <trwnh.com>
+* Dmitri Zagidulin (I.E., [Interop Alliance](https://interopalliance.org))
+* Johannes Ernst (https://j12t.org)
+* Ryan Barrett snarfed.org
+* Evan Prodromou <acct:evanprodromou@socialwebfoundation.org> 
+* [Ted Thibodeau Jr](https://www.linkedin.com/in/macted/) (he/him) (OpenLinkSw.com) // GitHub:[@TallTed](https://github.com/TallTed) // Mastodon:[@TallTed](https://mastodon.social/@TallTed)
+* Philippe Le Hegaret
+* [Michal](https://id.mrkvon.org)
+* a <trwnh.com>
 
 ## Regrets
 

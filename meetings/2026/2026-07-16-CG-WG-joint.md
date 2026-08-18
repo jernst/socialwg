@@ -154,5 +154,12 @@ Issue https://github.com/w3c/activitypub/issues/573
 RESOLVED: "1. Maintain the SHOULD https recommendation in the spec. 2. Document use of alsoKnownAs" 
 
 * Chris: anybody working on this?
-* Dmitri: yes, have FEP (Actor-relative URLs https://codeberg.org/fediverse/fep/src/branch/main/fep/e3e9/fep-e3e9.md, and silverpill's "Federation-friendly addressing and deduplication use cases" https://codeberg.org/fediverse/fep/src/branch/main/fep/cd47/fep-cd47.md) and server implementationo
+* Dmitri: yes, have FEP (Actor-relative URLs https://codeberg.org/fediverse/fep/src/branch/main/fep/e3e9/fep-e3e9.md)~~, and silverpill's "Federation-friendly addressing and deduplication use cases" https://codeberg.org/fediverse/fep/src/branch/main/fep/cd47/fep-cd47.md) and server implementationo~~ (Correction after the meeting based on feedback from @bumblefudge)
+
+Addition after the meeting based on feedback from @bumblefudge:
+* and @bumblefudge 's ["Federation-friendly addressing and deduplication use cases"]( https://codeberg.org/fediverse/fep/src/branch/main/fep/cd47/fep-cd47.md), 
+* and `silverpill`'s ["Portable Objects" FEP](https://codeberg.org/fediverse/fep/src/branch/main/fep/ef61/fep-ef61.md) 
+* and server implementations
+
+
 
